@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include "list.h"
 
+//Disclaimer: Le pasé mi código a harta gente que estaba bien perdida con la tarea, a nadie
+//Le compartí la versión final, pero ojalá que si hay códigos muy parecidos no me bajen la
+//Nota :/ El profesor dijo que se podía ayudar a los compañeros, pero como es fin de semana
+//No les puedo ayudar de forma presencial, así que por eso pasé tanto el código. 
+//Estimo que podrían haberlo visto +20 personas así que lo siento.
 //============= ESTRUCTURA ================
 
 //Definí el estado del puzzle como su configuración numérica y
